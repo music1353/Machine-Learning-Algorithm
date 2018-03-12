@@ -1,5 +1,5 @@
 critics = {
-    'Lisa Rose': {
+    'Lisa Roseda': {
         'Lady in the Water': 2.5,
         'Snakes on a Plane': 3.5,
         'Just My Luck': 3.0,
